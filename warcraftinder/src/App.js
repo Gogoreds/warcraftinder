@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from './Header';
-import Person from './Person';
-import Lonely from './Lonely';
+import Header from './components/Header';
+import Person from './components/Person';
+import Lonely from './components/Lonely';
 import data from './data.json';
 import './App.css';
 
