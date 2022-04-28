@@ -16,6 +16,7 @@ const Header = () => {
         <div className="fl">
             <button type="button">
                 <img src="/warcraftinder/public/images/misc/messages.png" alt="View Messages" />
+            </button>
         </div>
     </header>
 };
