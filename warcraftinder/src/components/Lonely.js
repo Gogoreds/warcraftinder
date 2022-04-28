@@ -3,7 +3,7 @@ import LikedPerson from './LikedPerson';
 
 const Lonely = ({ activeUserImage, likedUsers, superLikedUsers }) => (
   <div id="lonely">
-    <p>There's no new around you.</p>
+    <p>You went through everyone in your area.</p>
 
     <span className="pulse">
       <img src={`/images/users/${activeUserImage}`} alt="You..." />
