@@ -24,7 +24,24 @@ function App() {
   }
 
   return (
-    <div>
+    <div className='app'>
+      <Header />
+
+      {people[1] ? (
+        <Person
+           key={person[1].id}
+           person={people[1]}
+           modifySuperficialChoices={modifySuperficialChoices}
+           likedUsers={likedUsers}
+        />
+      ) : (
+
+        <Lonely 
+          activeUserImage={people[activeUser].image}
+          likedUsers={likedUsers}
+          superLikedUsers={superLikedUsers}
+        />
+      )}
     </div>
   );
 }
