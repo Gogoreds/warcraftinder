@@ -13,7 +13,7 @@
     {
       "id": 1,
       "name": "Thrall, Son of Durotan",
-      "desc": "Birthname Go'el, founder of the Horde in Kalimdor and one of the second wave of shamans. Message me only if interested in Lok'tar Ogar!",
+      "desc": "Message me only if interested in Lok'tar Ogar!",
       "age": 30,
       "image": "2.jpg",
       "likedUsers": [],
@@ -24,7 +24,7 @@
     {
       "id": 2,
       "name": "Jaina Proudmoore",
-      "desc": "Considered one of the finest mages in all Azeroth and the most powerful human sorceress alive. What can I say? Every tooth I have is a sweet tooth.",
+      "desc": "You canjust stop. You know that's never going to happen.",
       "age": 28,
       "image": "3.jpg",
       "likedUsers": [],
@@ -35,7 +35,7 @@
     {
       "id": 3,
       "name": "Arthas",
-      "desc": "Searching for a new Banshee Queen, no fatties!",
+      "desc": "Searching for a new Banshee Queen, no fatties or uggos!",
       "age": 45,
       "image": "4.jpg",
       "likedUsers": [],
@@ -45,8 +45,8 @@
     },
     {
       "id": 4,
-      "name": "Vol Jin",
-      "desc": "Ver are dem tails mon!",
+      "name": "Vol'jin",
+      "desc": "Just show me dem tails mon!",
       "age": 40,
       "image": "5.jpg",
       "likedUsers": [],
